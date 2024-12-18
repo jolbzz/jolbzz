@@ -2,21 +2,6 @@
   <img src="https://github.com/jolbzz/jolbzz/blob/main/jolbzz_readme.gif" alt="jolbzz's Lab"/>
 </p>
 
-<style>
-@keyframes sparkle {
-  0% {
-    text-shadow: 0 0 5px #FFD700, 0 0 10px #FFD700, 0 0 15px #FFD700, 0 0 20px #FFD700, 0 0 25px #FFD700;
-  }
-  50% {
-    text-shadow: 0 0 20px #FFD700, 0 0 30px #FFD700, 0 0 40px #FFD700, 0 0 50px #FFD700, 0 0 60px #FFD700;
-  }
-  100% {
-    text-shadow: 0 0 10px #FFD700, 0 0 15px #FFD700, 0 0 20px #FFD700, 0 0 25px #FFD700, 0 0 35px #FFD700;
-  }
-}
-</style>
-
-
 <p align="center">
   <strong>🛠️ 기술 스택 🛠️</strong>
 </p>
