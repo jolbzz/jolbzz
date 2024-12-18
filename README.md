@@ -1,4 +1,4 @@
-## 🛠️ 기술 스택
+🛠️ 기술 스택 🛠️
 
 <p align="center">
   <a href="https://www.java.com/" target="_blank">
@@ -15,9 +15,7 @@
   </a>
 </p>
 
----
-
-## 🛠️ 개발 툴
+🛠️ 개발 툴 🛠️
 
 <p align="center">
   <a href="https://visualstudio.microsoft.com/" target="_blank">
@@ -25,5 +23,14 @@
   </a>
   <a href="https://www.oracle.com/" target="_blank">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+  </a>
+  <a href="https://tortoisesvn.net/" target="_blank">
+    <img src="https://img.shields.io/badge/TortoiseSVN-000000?style=flat-square&logo=tortoise-svn&logoColor=white" alt="Tortoise SVN"/>
   </a>
 </p>
