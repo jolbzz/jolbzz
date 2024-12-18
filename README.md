@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <strong>🛠️ 개발 툴 🛠️</strong>
+  <strong>🌟 개발 툴 🌟</strong>
 </p>
 
 <p align="center">
@@ -31,4 +31,12 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/G
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+  </a>
+  <a href="https://tortoisesvn.net/" target="_blank">
+    <img src="https://img.shields.io/badge/TortoiseSVN-000000?style=flat-square&logo=tortoise-svn&logoColor=white" alt="Tortoise SVN"/>
+  </a>
+</p>
