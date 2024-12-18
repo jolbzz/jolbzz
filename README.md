@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-gif-url.com/jolbzzs-lab.gif" alt="jolbzz's Lab](https://www.canva.com/design/DAGZoxHke8s/nDYLBl1u_cjj26jPMIRYPQ/watch?utm_content=DAGZoxHke8s&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)" />
+  <img src="[https://your-repository-url.com/path-to-your-gif.gif](https://imgur.com/a/kMQUBgt)" alt="jolbzz's Lab"/>
 </p>
 
 <style>
