@@ -1,4 +1,13 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/26u4lZy28ot60U9U0/giphy.gif" alt="Sparkle GIF"/>
+</p>
+
+<p align="center" style="font-size: 40px; font-weight: bold; font-family: Arial, sans-serif; color: #FFD700; text-shadow: 0 0 5px #FFD700, 0 0 10px #FFD700, 0 0 15px #FFD700, 0 0 20px #FFD700, 0 0 25px #FFD700;">
+  jolbzz's Lab
+</p>
+
+
+<p align="center">
   <strong>🛠️ 기술 스택 🛠️</strong>
 </p>
 
