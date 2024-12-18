@@ -1,5 +1,8 @@
 <p align="center">
-  🛠️ 기술 스택 🛠️
+  <strong>🛠️ 기술 스택 🛠️</strong>
+</p>
+
+<p align="center">
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
   </a>
@@ -14,8 +17,13 @@
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  🛠️ 개발 툴 🛠️
+  <strong>🛠️ 개발 툴 🛠️</strong>
+</p>
+
+<p align="center">
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
   </a>
@@ -23,12 +31,4 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.notion.so/" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
-  </a>
-  <a href="https://tortoisesvn.net/" target="_blank">
-    <img src="https://img.shields.io/badge/TortoiseSVN-000000?style=flat-square&logo=tortoise-svn&logoColor=white" alt="Tortoise SVN"/>
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/G
