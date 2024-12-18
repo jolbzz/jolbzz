@@ -40,3 +40,16 @@
     <img src="https://img.shields.io/badge/TortoiseSVN-000000?style=flat-square&logo=tortoise-svn&logoColor=white" alt="Tortoise SVN"/>
   </a>
 </p>
+
+<p align="center">
+  <strong>📧 Contact 📧</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:ksh120377@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-FF4F00?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://velog.io/@jolbzz" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog"/>
+  </a>
+</p>
