@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>🛠️ 기술 스택 🛠️</strong>
+  <strong>🛠️ Tech Stack 🛠️</strong>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <strong>🌟 개발 툴 🌟</strong>
+  <strong>🌟 Tools 🌟</strong>
 </p>
 
 <p align="center">
