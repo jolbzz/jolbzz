@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-repository-url.com/path-to-your-gif.gif](https://imgur.com/a/kMQUBgt)" alt="jolbzz's Lab"/>
+  <img src="https://imgur.com/a/kMQUBgt"/>
 </p>
 
 <style>
