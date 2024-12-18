@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/>
   </a>
 </p>
 
