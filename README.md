@@ -1,9 +1,5 @@
 <p align="center">
-  <span style="font-size: 50px; font-weight: bold; font-family: Arial, sans-serif; color: #FFD700; 
-  text-shadow: 0 0 5px #FFD700, 0 0 10px #FFD700, 0 0 15px #FFD700, 0 0 20px #FFD700, 0 0 25px #FFD700; 
-  animation: sparkle 1.5s infinite alternate;">
-    jolbzz's Lab
-  </span>
+  <img src="[https://your-gif-url.com/jolbzzs-lab.gif" alt="jolbzz's Lab](https://www.canva.com/design/DAGZoxHke8s/nDYLBl1u_cjj26jPMIRYPQ/watch?utm_content=DAGZoxHke8s&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)" />
 </p>
 
 <style>
